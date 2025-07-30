@@ -1,3 +1,4 @@
+Leetcode Q. No. 26
 Brute:
 use set data structure
 set data structure stores only unique elements 
