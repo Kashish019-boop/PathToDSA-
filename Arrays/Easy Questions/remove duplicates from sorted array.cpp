@@ -12,7 +12,7 @@ int index = 0;
 for(auto it :st){            // This will store unique elements in consecutive order(in place)
 a[index] = it;               // The Time complexity for this approach is O(nlogn + n) [nlogn -> unordered set && n -> for each loop to place unique in order]
 index++;                     // It also requires extra space O(n)
-                             // The Interviewer will ask to improve the complexity so know the OPTIMAL APPROACH
+                             // The Interviewer will ask to improve the complexity so now the OPTIMAL APPROACH
 }
 
 OPTIMAL : 2 ptr Approach
