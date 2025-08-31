@@ -29,16 +29,7 @@ It contains:
 
 ---
 
-## 🧾 Daily Progress Tracker
 
-| 📅 Date     | 🧩 Topic       | ✅ Problems Solved |
-|------------|----------------|--------------------|
-| 2025-07-12 | Arrays          | 2                  |
-| 2025-07-13 | Sliding Window  | 3                  |
-| 2025-07-14 | LinkedList      | 1                  |
-| ...        | ...             | ...                |
-
----
 
 ## 💻 Tech Stack
 
@@ -77,11 +68,11 @@ Check [`resources.md`](./resources.md) for:
 
 ## ✨ Quote of the Journey
 
-> “Consistency > Motivation. Just show up every day — growth will follow.”  
-> — *Your Future Self*
+> Just show up every day — growth will follow.”  
+> 
 
 ---
 
 <p align="center">
-  🔥 Let's ace every coding interview — one problem at a time! 💪
+  🔥 Let's ace every coding interview  💪
 </p>
