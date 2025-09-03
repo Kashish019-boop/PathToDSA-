@@ -36,9 +36,17 @@ int lengthofLL(Node* head){
 int cnt = 0;
 Node* temp = head;
 while(temp){
-cout<<temp -> data << " ";
 temp = temp -> next;
   cnt++;
+}
+
+// Search in Linked List
+int checkIfPresent(Node* head, int val){
+  Node* temp = head;
+while(temp){
+  if(temp -> data == val) return 1;
+temp = temp -> next;
+  return 0;
 }
 
 // Traversal of Linked List
@@ -46,12 +54,14 @@ int main(){
 vector<int> arr = {12,3,4,6};
 Node* head = conArr2LL(arr);
 cout << lengthofLL(head);
+cout << checkIfPresent(head, 6);
 Node* temp = head;
 while(temp){
 cout<<temp -> data << " ";
 temp = temp -> next;
 }
 }
+
 
 
 
