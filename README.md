@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mastering DSA | 500+ Interview Questions in C++</h1>
+<h1 align="center">🚀 Mastering DSA | Interview Questions in C++</h1>
 
 <p align="center">
   🧠 Pattern-Based | 🧩 Topic-Wise | 💻 C++ | 📈 Placement-Focused
@@ -18,36 +18,7 @@ It contains:
 
 ---
 
----
 
-## 🎯 Strategy & Goals
-
-🗓️ **Timeline:** July 2025 – December 2025  
-🏁 **Target:** Master DSA patterns & solve 500+ problems  
-🎯 **End Goal:** Crack coding interviews at MAANG & other top product-based companies  
-🧠 **Approach:** Focus on understanding patterns over memorizing solutions
-
----
-
-
-
-## 💻 Tech Stack
-
-- 💡 **Language:** C++
-- ⚙️ **Tools:** Git, GitHub, VS Code
-- 🌐 **Platforms:** LeetCode, GFG, CodeStudio, InterviewBit
-
----
-
-## 📚 Best Learning Resources
-
-Check [`resources.md`](./resources.md) for:
-- 🎥 YouTube Playlists (Striver, TakeUForward, etc.)
-- 📄 Cheat Sheets (Big-O, DSA patterns, STL)
-- 🧠 CP Handbooks and Revision Sheets
-- 🗣️ Real Interview Experiences from top companies
-
----
 
 ## ⭐ How You Can Use This Repo
 
